@@ -1,6 +1,6 @@
 # AWS vs Azure Cost Comparison – Repository Overview
 
-**Student:** Olamileye Duduyemi
+**Student:** Nzegbuna Michael Chukwuma
 **Date:** May 2026
 **Assignment:** Cloud Economics & Pricing – AWS vs Azure
 
